@@ -1,0 +1,295 @@
+Fri Feb 11 15:23:23 AMT 2011: Creating new db @ db\graphTT\neostore
+Fri Feb 11 15:23:23 AMT 2011: Opened [db\graphTT\nioneo_logical.log.1] clean empty log, version=0
+Fri Feb 11 15:23:23 AMT 2011: Opened [db\graphTT/lucene/lucene.log.1] clean empty log, version=0
+Fri Feb 11 15:23:23 AMT 2011: Opened [db\graphTT/lucene-fulltext/lucene.log.1] clean empty log, version=0
+Fri Feb 11 15:23:24 AMT 2011: Opened [C:\workspace-sts\neo4poc\db\graphTT\index/lucene.log.1] clean empty log, version=0
+Fri Feb 11 15:23:24 AMT 2011: Extension org.neo4j.graphdb.index.IndexProvider[lucene] initialized ok
+Fri Feb 11 15:23:24 AMT 2011: Extension org.neo4j.kernel.KernelExtension[shell] initialized ok
+Fri Feb 11 15:23:24 AMT 2011: Extension org.neo4j.kernel.KernelExtension[kernel udc] initialized ok
+Fri Feb 11 15:23:24 AMT 2011: Extension org.neo4j.kernel.KernelExtension[kernel jmx] initialized ok
+Fri Feb 11 15:23:24 AMT 2011: TM new log: tm_tx_log.1
+Fri Feb 11 15:23:24 AMT 2011: --- CONFIGURATION START ---
+Fri Feb 11 15:23:24 AMT 2011: Physical mem: 2047MB, Heap size: 247MB
+Fri Feb 11 15:23:24 AMT 2011: Kernel version: Neo4j - Graph Database Kernel 1.3-1.3.M01
+Fri Feb 11 15:23:24 AMT 2011: Operating System: Windows XP; version: 5.1; arch: x86; cpus: 2
+Fri Feb 11 15:23:24 AMT 2011: VM Name: Java HotSpot(TM) Client VM
+Fri Feb 11 15:23:24 AMT 2011: VM Vendor: Sun Microsystems Inc.
+Fri Feb 11 15:23:24 AMT 2011: VM Version: 16.3-b01
+Fri Feb 11 15:23:24 AMT 2011: Boot Class Path: C:\Arquivos de programas\Java\jdk1.6.0_20\jre\lib\resources.jar;C:\Arquivos de programas\Java\jdk1.6.0_20\jre\lib\rt.jar;C:\Arquivos de programas\Java\jdk1.6.0_20\jre\lib\sunrsasign.jar;C:\Arquivos de programas\Java\jdk1.6.0_20\jre\lib\jsse.jar;C:\Arquivos de programas\Java\jdk1.6.0_20\jre\lib\jce.jar;C:\Arquivos de programas\Java\jdk1.6.0_20\jre\lib\charsets.jar;C:\Arquivos de programas\Java\jdk1.6.0_20\jre\classes
+Fri Feb 11 15:23:24 AMT 2011: Class Path: C:\workspace-sts\neo4poc\target\classes;C:\java\m2\repository\org\neo4j\neo4j\1.3.M01\neo4j-1.3.M01.jar;C:\java\m2\repository\org\neo4j\neo4j-kernel\1.3-1.3.M01\neo4j-kernel-1.3-1.3.M01.jar;C:\java\m2\repository\org\apache\geronimo\specs\geronimo-jta_1.1_spec\1.1.1\geronimo-jta_1.1_spec-1.1.1.jar;C:\java\m2\repository\org\neo4j\neo4j-index\1.3-1.3.M01\neo4j-index-1.3-1.3.M01.jar;C:\java\m2\repository\org\apache\servicemix\bundles\org.apache.servicemix.bundles.lucene\3.0.1_2\org.apache.servicemix.bundles.lucene-3.0.1_2.jar;C:\java\m2\repository\org\neo4j\neo4j-lucene-index\0.5-1.3.M01\neo4j-lucene-index-0.5-1.3.M01.jar;C:\java\m2\repository\org\neo4j\neo4j-shell\1.3-1.3.M01\neo4j-shell-1.3-1.3.M01.jar;C:\java\m2\repository\org\apache\servicemix\bundles\org.apache.servicemix.bundles.jline\0.9.94_1\org.apache.servicemix.bundles.jline-0.9.94_1.jar;C:\java\m2\repository\org\neo4j\neo4j-remote-graphdb\0.9-1.3.M01\neo4j-remote-graphdb-0.9-1.3.M01.jar;C:\java\m2\repository\com\google\protobuf\protobuf-java\2.3.0\protobuf-java-2.3.0.jar;C:\java\m2\repository\org\neo4j\neo4j-graph-algo\0.8-1.3.M01\neo4j-graph-algo-0.8-1.3.M01.jar;C:\java\m2\repository\org\neo4j\neo4j-online-backup\0.8-1.3.M01\neo4j-online-backup-0.8-1.3.M01.jar;C:\java\m2\repository\org\neo4j\neo4j-udc\0.2-1.3.M01\neo4j-udc-0.2-1.3.M01.jar;C:\java\m2\repository\org\neo4j\neo4j-management\1.3-1.3.M01\neo4j-management-1.3-1.3.M01.jar;C:\java\m2\repository\org\neo4j\neo4j-ha\0.6-1.3.M01\neo4j-ha-0.6-1.3.M01.jar;C:\java\m2\repository\org\apache\zookeeper\zookeeper\3.3.2\zookeeper-3.3.2.jar;C:\java\m2\repository\org\jboss\netty\netty\3.2.1.Final\netty-3.2.1.Final.jar;C:\java\m2\repository\log4j\log4j\1.2.16\log4j-1.2.16.jar
+Fri Feb 11 15:23:24 AMT 2011: Library Path: C:\Arquivos de programas\Java\jdk1.6.0_20\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;c:\ruby\bin;C:\Arquivos de programas\Java\jdk1.6.0_20\bin;C:\oracle\product\10.2.0\client_1\bin;C:\program files\oracle\jre\1.1.8\bin;C:\arquivos de programas\oracle\jre\1.1.8\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\system32\WindowsPowerShell\v1.0;C:\Arquivos de programas\IVT Corporation\BlueSoleil\Mobile;C:\java\bin\Maven\maven-2.2.1\bin;C:\java\mule\bin;C:\Arquivos de programas\QuickTime\QTSystem\;C:\Arquivos de programas\Intel\DMIX;C:\Arquivos de programas\WinMerge;C:\Arquivos de programas\TortoiseSVN\bin;C:\APPs\apache-ant-1.8.1\bin;C:\Arquivos de programas\Git\cmd;C:\Arquivos de programas\TortoiseGit\bin;C:\APPs\curl;c:\jruby-1.5.2\bin
+Fri Feb 11 15:23:24 AMT 2011: Garbage Collector: Copy: [Eden Space, Survivor Space]
+Fri Feb 11 15:23:24 AMT 2011: Garbage Collector: MarkSweepCompact: [Eden Space, Survivor Space, Tenured Gen, Perm Gen, Perm Gen [shared-ro], Perm Gen [shared-rw]]
+Fri Feb 11 15:23:24 AMT 2011: VM Arguments: [-Dfile.encoding=Cp1252]
+Fri Feb 11 15:23:24 AMT 2011: 
+Fri Feb 11 15:23:24 AMT 2011: create=true
+Fri Feb 11 15:23:24 AMT 2011: dir=db\graphTT/lucene-fulltext
+Fri Feb 11 15:23:24 AMT 2011: logical_log=db\graphTT\nioneo_logical.log
+Fri Feb 11 15:23:24 AMT 2011: neo_store=db\graphTT\neostore
+Fri Feb 11 15:23:24 AMT 2011: neostore.nodestore.db.mapped_memory=20M
+Fri Feb 11 15:23:24 AMT 2011: neostore.propertystore.db.arrays.mapped_memory=130M
+Fri Feb 11 15:23:24 AMT 2011: neostore.propertystore.db.index.keys.mapped_memory=1M
+Fri Feb 11 15:23:24 AMT 2011: neostore.propertystore.db.index.mapped_memory=1M
+Fri Feb 11 15:23:24 AMT 2011: neostore.propertystore.db.mapped_memory=90M
+Fri Feb 11 15:23:24 AMT 2011: neostore.propertystore.db.strings.mapped_memory=130M
+Fri Feb 11 15:23:24 AMT 2011: neostore.relationshipstore.db.mapped_memory=100M
+Fri Feb 11 15:23:24 AMT 2011: rebuild_idgenerators_fast=true
+Fri Feb 11 15:23:24 AMT 2011: store_dir=db\graphTT
+Fri Feb 11 15:23:24 AMT 2011: use_memory_mapped_buffers=false
+Fri Feb 11 15:23:24 AMT 2011: --- CONFIGURATION END ---
+Fri Feb 11 15:23:24 AMT 2011: Extension org.neo4j.graphdb.index.IndexProvider[lucene] loaded ok
+Fri Feb 11 15:23:24 AMT 2011: Extension org.neo4j.kernel.KernelExtension[shell] loaded ok
+Fri Feb 11 15:23:24 AMT 2011: Extension org.neo4j.kernel.KernelExtension[kernel udc] loaded ok
+Fri Feb 11 15:23:24 AMT 2011: Extension org.neo4j.kernel.KernelExtension[kernel jmx] loaded ok
+Fri Feb 11 15:23:25 AMT 2011: Closed log db\graphTT\nioneo_logical.log
+Fri Feb 11 15:23:25 AMT 2011: NeoStore closed
+Fri Feb 11 15:23:25 AMT 2011: Closed log C:\workspace-sts\neo4poc\db\graphTT\index/lucene.log
+Fri Feb 11 15:23:25 AMT 2011: Closed log db\graphTT/lucene/lucene.log
+Fri Feb 11 15:23:25 AMT 2011: NeoStore closed
+Fri Feb 11 15:23:25 AMT 2011: Closed log db\graphTT/lucene-fulltext/lucene.log
+Fri Feb 11 15:23:25 AMT 2011: TM shutting down
+Fri Feb 11 15:23:41 AMT 2011: Opened [db\graphTT\nioneo_logical.log.1] clean empty log, version=0
+Fri Feb 11 15:23:41 AMT 2011: Opened [db\graphTT/lucene/lucene.log.1] clean empty log, version=0
+Fri Feb 11 15:23:41 AMT 2011: Opened [db\graphTT/lucene-fulltext/lucene.log.1] clean empty log, version=0
+Fri Feb 11 15:23:41 AMT 2011: Opened [C:\workspace-sts\neo4poc\db\graphTT\index/lucene.log.1] clean empty log, version=0
+Fri Feb 11 15:23:41 AMT 2011: Extension org.neo4j.graphdb.index.IndexProvider[lucene] initialized ok
+Fri Feb 11 15:23:41 AMT 2011: Extension org.neo4j.kernel.KernelExtension[shell] initialized ok
+Fri Feb 11 15:23:41 AMT 2011: Extension org.neo4j.kernel.KernelExtension[kernel udc] initialized ok
+Fri Feb 11 15:23:41 AMT 2011: Extension org.neo4j.kernel.KernelExtension[kernel jmx] initialized ok
+Fri Feb 11 15:23:41 AMT 2011: TM opening log: db/graphTT\tm_tx_log.1
+Fri Feb 11 15:23:41 AMT 2011: --- CONFIGURATION START ---
+Fri Feb 11 15:23:41 AMT 2011: Physical mem: 2047MB, Heap size: 247MB
+Fri Feb 11 15:23:41 AMT 2011: Kernel version: Neo4j - Graph Database Kernel 1.3-1.3.M01
+Fri Feb 11 15:23:41 AMT 2011: Operating System: Windows XP; version: 5.1; arch: x86; cpus: 2
+Fri Feb 11 15:23:41 AMT 2011: VM Name: Java HotSpot(TM) Client VM
+Fri Feb 11 15:23:41 AMT 2011: VM Vendor: Sun Microsystems Inc.
+Fri Feb 11 15:23:41 AMT 2011: VM Version: 16.3-b01
+Fri Feb 11 15:23:41 AMT 2011: Boot Class Path: C:\Arquivos de programas\Java\jdk1.6.0_20\jre\lib\resources.jar;C:\Arquivos de programas\Java\jdk1.6.0_20\jre\lib\rt.jar;C:\Arquivos de programas\Java\jdk1.6.0_20\jre\lib\sunrsasign.jar;C:\Arquivos de programas\Java\jdk1.6.0_20\jre\lib\jsse.jar;C:\Arquivos de programas\Java\jdk1.6.0_20\jre\lib\jce.jar;C:\Arquivos de programas\Java\jdk1.6.0_20\jre\lib\charsets.jar;C:\Arquivos de programas\Java\jdk1.6.0_20\jre\classes
+Fri Feb 11 15:23:41 AMT 2011: Class Path: C:\workspace-sts\neo4poc\target\classes;C:\java\m2\repository\org\neo4j\neo4j\1.3.M01\neo4j-1.3.M01.jar;C:\java\m2\repository\org\neo4j\neo4j-kernel\1.3-1.3.M01\neo4j-kernel-1.3-1.3.M01.jar;C:\java\m2\repository\org\apache\geronimo\specs\geronimo-jta_1.1_spec\1.1.1\geronimo-jta_1.1_spec-1.1.1.jar;C:\java\m2\repository\org\neo4j\neo4j-index\1.3-1.3.M01\neo4j-index-1.3-1.3.M01.jar;C:\java\m2\repository\org\apache\servicemix\bundles\org.apache.servicemix.bundles.lucene\3.0.1_2\org.apache.servicemix.bundles.lucene-3.0.1_2.jar;C:\java\m2\repository\org\neo4j\neo4j-lucene-index\0.5-1.3.M01\neo4j-lucene-index-0.5-1.3.M01.jar;C:\java\m2\repository\org\neo4j\neo4j-shell\1.3-1.3.M01\neo4j-shell-1.3-1.3.M01.jar;C:\java\m2\repository\org\apache\servicemix\bundles\org.apache.servicemix.bundles.jline\0.9.94_1\org.apache.servicemix.bundles.jline-0.9.94_1.jar;C:\java\m2\repository\org\neo4j\neo4j-remote-graphdb\0.9-1.3.M01\neo4j-remote-graphdb-0.9-1.3.M01.jar;C:\java\m2\repository\com\google\protobuf\protobuf-java\2.3.0\protobuf-java-2.3.0.jar;C:\java\m2\repository\org\neo4j\neo4j-graph-algo\0.8-1.3.M01\neo4j-graph-algo-0.8-1.3.M01.jar;C:\java\m2\repository\org\neo4j\neo4j-online-backup\0.8-1.3.M01\neo4j-online-backup-0.8-1.3.M01.jar;C:\java\m2\repository\org\neo4j\neo4j-udc\0.2-1.3.M01\neo4j-udc-0.2-1.3.M01.jar;C:\java\m2\repository\org\neo4j\neo4j-management\1.3-1.3.M01\neo4j-management-1.3-1.3.M01.jar;C:\java\m2\repository\org\neo4j\neo4j-ha\0.6-1.3.M01\neo4j-ha-0.6-1.3.M01.jar;C:\java\m2\repository\org\apache\zookeeper\zookeeper\3.3.2\zookeeper-3.3.2.jar;C:\java\m2\repository\org\jboss\netty\netty\3.2.1.Final\netty-3.2.1.Final.jar;C:\java\m2\repository\log4j\log4j\1.2.16\log4j-1.2.16.jar
+Fri Feb 11 15:23:41 AMT 2011: Library Path: C:\Arquivos de programas\Java\jdk1.6.0_20\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Arquivos de programas\Java\jdk1.6.0_20\jre\bin;c:\ruby\bin;C:\Arquivos de programas\Java\jdk1.6.0_20\bin;C:\oracle\product\10.2.0\client_1\bin;C:\program files\oracle\jre\1.1.8\bin;C:\arquivos de programas\oracle\jre\1.1.8\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\system32\WindowsPowerShell\v1.0;C:\Arquivos de programas\IVT Corporation\BlueSoleil\Mobile;C:\java\bin\Maven\maven-2.2.1\bin;C:\java\mule\bin;C:\Arquivos de programas\QuickTime\QTSystem\;C:\Arquivos de programas\Intel\DMIX;C:\Arquivos de programas\WinMerge;C:\Arquivos de programas\TortoiseSVN\bin;C:\APPs\apache-ant-1.8.1\bin;C:\Arquivos de programas\Git\cmd;C:\Arquivos de programas\TortoiseGit\bin;C:\APPs\curl;c:\jruby-1.5.2\bin
+Fri Feb 11 15:23:41 AMT 2011: Garbage Collector: Copy: [Eden Space, Survivor Space]
+Fri Feb 11 15:23:41 AMT 2011: Garbage Collector: MarkSweepCompact: [Eden Space, Survivor Space, Tenured Gen, Perm Gen]
+Fri Feb 11 15:23:41 AMT 2011: VM Arguments: [-agentlib:jdwp=transport=dt_socket,suspend=y,address=localhost:3693, -Dfile.encoding=Cp1252]
+Fri Feb 11 15:23:41 AMT 2011: 
+Fri Feb 11 15:23:41 AMT 2011: create=true
+Fri Feb 11 15:23:41 AMT 2011: dir=db\graphTT/lucene-fulltext
+Fri Feb 11 15:23:41 AMT 2011: logical_log=db\graphTT\nioneo_logical.log
+Fri Feb 11 15:23:41 AMT 2011: neo_store=db\graphTT\neostore
+Fri Feb 11 15:23:41 AMT 2011: neostore.nodestore.db.mapped_memory=20M
+Fri Feb 11 15:23:41 AMT 2011: neostore.propertystore.db.arrays.mapped_memory=130M
+Fri Feb 11 15:23:41 AMT 2011: neostore.propertystore.db.index.keys.mapped_memory=1M
+Fri Feb 11 15:23:41 AMT 2011: neostore.propertystore.db.index.mapped_memory=1M
+Fri Feb 11 15:23:41 AMT 2011: neostore.propertystore.db.mapped_memory=90M
+Fri Feb 11 15:23:41 AMT 2011: neostore.propertystore.db.strings.mapped_memory=130M
+Fri Feb 11 15:23:41 AMT 2011: neostore.relationshipstore.db.mapped_memory=100M
+Fri Feb 11 15:23:41 AMT 2011: rebuild_idgenerators_fast=true
+Fri Feb 11 15:23:41 AMT 2011: store_dir=db\graphTT
+Fri Feb 11 15:23:41 AMT 2011: use_memory_mapped_buffers=false
+Fri Feb 11 15:23:41 AMT 2011: --- CONFIGURATION END ---
+Fri Feb 11 15:23:41 AMT 2011: Extension org.neo4j.graphdb.index.IndexProvider[lucene] loaded ok
+Fri Feb 11 15:23:41 AMT 2011: Extension org.neo4j.kernel.KernelExtension[shell] loaded ok
+Fri Feb 11 15:23:41 AMT 2011: Extension org.neo4j.kernel.KernelExtension[kernel udc] loaded ok
+Fri Feb 11 15:23:41 AMT 2011: Extension org.neo4j.kernel.KernelExtension[kernel jmx] loaded ok
+Fri Feb 11 15:23:41 AMT 2011: Closed log db\graphTT\nioneo_logical.log
+Fri Feb 11 15:23:41 AMT 2011: NeoStore closed
+Fri Feb 11 15:23:41 AMT 2011: Closed log C:\workspace-sts\neo4poc\db\graphTT\index/lucene.log
+Fri Feb 11 15:23:41 AMT 2011: Closed log db\graphTT/lucene/lucene.log
+Fri Feb 11 15:23:41 AMT 2011: NeoStore closed
+Fri Feb 11 15:23:41 AMT 2011: Closed log db\graphTT/lucene-fulltext/lucene.log
+Fri Feb 11 15:23:41 AMT 2011: TM shutting down
+Fri Feb 11 15:23:46 AMT 2011: Opened [db\graphTT\nioneo_logical.log.1] clean empty log, version=0
+Fri Feb 11 15:23:46 AMT 2011: Opened [db\graphTT/lucene/lucene.log.1] clean empty log, version=0
+Fri Feb 11 15:23:46 AMT 2011: Opened [db\graphTT/lucene-fulltext/lucene.log.1] clean empty log, version=0
+Fri Feb 11 15:23:46 AMT 2011: Opened [C:\workspace-sts\neo4poc\db\graphTT\index/lucene.log.1] clean empty log, version=0
+Fri Feb 11 15:23:46 AMT 2011: Extension org.neo4j.graphdb.index.IndexProvider[lucene] initialized ok
+Fri Feb 11 15:23:46 AMT 2011: Extension org.neo4j.kernel.KernelExtension[shell] initialized ok
+Fri Feb 11 15:23:46 AMT 2011: Extension org.neo4j.kernel.KernelExtension[kernel udc] initialized ok
+Fri Feb 11 15:23:46 AMT 2011: Extension org.neo4j.kernel.KernelExtension[kernel jmx] initialized ok
+Fri Feb 11 15:23:46 AMT 2011: TM opening log: db/graphTT\tm_tx_log.1
+Fri Feb 11 15:23:46 AMT 2011: --- CONFIGURATION START ---
+Fri Feb 11 15:23:46 AMT 2011: Physical mem: 2047MB, Heap size: 247MB
+Fri Feb 11 15:23:46 AMT 2011: Kernel version: Neo4j - Graph Database Kernel 1.3-1.3.M01
+Fri Feb 11 15:23:46 AMT 2011: Operating System: Windows XP; version: 5.1; arch: x86; cpus: 2
+Fri Feb 11 15:23:46 AMT 2011: VM Name: Java HotSpot(TM) Client VM
+Fri Feb 11 15:23:46 AMT 2011: VM Vendor: Sun Microsystems Inc.
+Fri Feb 11 15:23:46 AMT 2011: VM Version: 16.3-b01
+Fri Feb 11 15:23:46 AMT 2011: Boot Class Path: C:\Arquivos de programas\Java\jdk1.6.0_20\jre\lib\resources.jar;C:\Arquivos de programas\Java\jdk1.6.0_20\jre\lib\rt.jar;C:\Arquivos de programas\Java\jdk1.6.0_20\jre\lib\sunrsasign.jar;C:\Arquivos de programas\Java\jdk1.6.0_20\jre\lib\jsse.jar;C:\Arquivos de programas\Java\jdk1.6.0_20\jre\lib\jce.jar;C:\Arquivos de programas\Java\jdk1.6.0_20\jre\lib\charsets.jar;C:\Arquivos de programas\Java\jdk1.6.0_20\jre\classes
+Fri Feb 11 15:23:46 AMT 2011: Class Path: C:\workspace-sts\neo4poc\target\classes;C:\java\m2\repository\org\neo4j\neo4j\1.3.M01\neo4j-1.3.M01.jar;C:\java\m2\repository\org\neo4j\neo4j-kernel\1.3-1.3.M01\neo4j-kernel-1.3-1.3.M01.jar;C:\java\m2\repository\org\apache\geronimo\specs\geronimo-jta_1.1_spec\1.1.1\geronimo-jta_1.1_spec-1.1.1.jar;C:\java\m2\repository\org\neo4j\neo4j-index\1.3-1.3.M01\neo4j-index-1.3-1.3.M01.jar;C:\java\m2\repository\org\apache\servicemix\bundles\org.apache.servicemix.bundles.lucene\3.0.1_2\org.apache.servicemix.bundles.lucene-3.0.1_2.jar;C:\java\m2\repository\org\neo4j\neo4j-lucene-index\0.5-1.3.M01\neo4j-lucene-index-0.5-1.3.M01.jar;C:\java\m2\repository\org\neo4j\neo4j-shell\1.3-1.3.M01\neo4j-shell-1.3-1.3.M01.jar;C:\java\m2\repository\org\apache\servicemix\bundles\org.apache.servicemix.bundles.jline\0.9.94_1\org.apache.servicemix.bundles.jline-0.9.94_1.jar;C:\java\m2\repository\org\neo4j\neo4j-remote-graphdb\0.9-1.3.M01\neo4j-remote-graphdb-0.9-1.3.M01.jar;C:\java\m2\repository\com\google\protobuf\protobuf-java\2.3.0\protobuf-java-2.3.0.jar;C:\java\m2\repository\org\neo4j\neo4j-graph-algo\0.8-1.3.M01\neo4j-graph-algo-0.8-1.3.M01.jar;C:\java\m2\repository\org\neo4j\neo4j-online-backup\0.8-1.3.M01\neo4j-online-backup-0.8-1.3.M01.jar;C:\java\m2\repository\org\neo4j\neo4j-udc\0.2-1.3.M01\neo4j-udc-0.2-1.3.M01.jar;C:\java\m2\repository\org\neo4j\neo4j-management\1.3-1.3.M01\neo4j-management-1.3-1.3.M01.jar;C:\java\m2\repository\org\neo4j\neo4j-ha\0.6-1.3.M01\neo4j-ha-0.6-1.3.M01.jar;C:\java\m2\repository\org\apache\zookeeper\zookeeper\3.3.2\zookeeper-3.3.2.jar;C:\java\m2\repository\org\jboss\netty\netty\3.2.1.Final\netty-3.2.1.Final.jar;C:\java\m2\repository\log4j\log4j\1.2.16\log4j-1.2.16.jar
+Fri Feb 11 15:23:46 AMT 2011: Library Path: C:\Arquivos de programas\Java\jdk1.6.0_20\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Arquivos de programas\Java\jdk1.6.0_20\jre\bin;c:\ruby\bin;C:\Arquivos de programas\Java\jdk1.6.0_20\bin;C:\oracle\product\10.2.0\client_1\bin;C:\program files\oracle\jre\1.1.8\bin;C:\arquivos de programas\oracle\jre\1.1.8\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\system32\WindowsPowerShell\v1.0;C:\Arquivos de programas\IVT Corporation\BlueSoleil\Mobile;C:\java\bin\Maven\maven-2.2.1\bin;C:\java\mule\bin;C:\Arquivos de programas\QuickTime\QTSystem\;C:\Arquivos de programas\Intel\DMIX;C:\Arquivos de programas\WinMerge;C:\Arquivos de programas\TortoiseSVN\bin;C:\APPs\apache-ant-1.8.1\bin;C:\Arquivos de programas\Git\cmd;C:\Arquivos de programas\TortoiseGit\bin;C:\APPs\curl;c:\jruby-1.5.2\bin
+Fri Feb 11 15:23:46 AMT 2011: Garbage Collector: Copy: [Eden Space, Survivor Space]
+Fri Feb 11 15:23:46 AMT 2011: Garbage Collector: MarkSweepCompact: [Eden Space, Survivor Space, Tenured Gen, Perm Gen]
+Fri Feb 11 15:23:46 AMT 2011: VM Arguments: [-agentlib:jdwp=transport=dt_socket,suspend=y,address=localhost:3697, -Dfile.encoding=Cp1252]
+Fri Feb 11 15:23:46 AMT 2011: 
+Fri Feb 11 15:23:46 AMT 2011: create=true
+Fri Feb 11 15:23:46 AMT 2011: dir=db\graphTT/lucene-fulltext
+Fri Feb 11 15:23:46 AMT 2011: logical_log=db\graphTT\nioneo_logical.log
+Fri Feb 11 15:23:46 AMT 2011: neo_store=db\graphTT\neostore
+Fri Feb 11 15:23:46 AMT 2011: neostore.nodestore.db.mapped_memory=20M
+Fri Feb 11 15:23:46 AMT 2011: neostore.propertystore.db.arrays.mapped_memory=130M
+Fri Feb 11 15:23:46 AMT 2011: neostore.propertystore.db.index.keys.mapped_memory=1M
+Fri Feb 11 15:23:46 AMT 2011: neostore.propertystore.db.index.mapped_memory=1M
+Fri Feb 11 15:23:46 AMT 2011: neostore.propertystore.db.mapped_memory=90M
+Fri Feb 11 15:23:46 AMT 2011: neostore.propertystore.db.strings.mapped_memory=130M
+Fri Feb 11 15:23:46 AMT 2011: neostore.relationshipstore.db.mapped_memory=100M
+Fri Feb 11 15:23:46 AMT 2011: rebuild_idgenerators_fast=true
+Fri Feb 11 15:23:46 AMT 2011: store_dir=db\graphTT
+Fri Feb 11 15:23:46 AMT 2011: use_memory_mapped_buffers=false
+Fri Feb 11 15:23:46 AMT 2011: --- CONFIGURATION END ---
+Fri Feb 11 15:23:46 AMT 2011: Extension org.neo4j.graphdb.index.IndexProvider[lucene] loaded ok
+Fri Feb 11 15:23:46 AMT 2011: Extension org.neo4j.kernel.KernelExtension[shell] loaded ok
+Fri Feb 11 15:23:46 AMT 2011: Extension org.neo4j.kernel.KernelExtension[kernel udc] loaded ok
+Fri Feb 11 15:23:46 AMT 2011: Extension org.neo4j.kernel.KernelExtension[kernel jmx] loaded ok
+Fri Feb 11 15:23:46 AMT 2011: Closed log db\graphTT\nioneo_logical.log
+Fri Feb 11 15:23:46 AMT 2011: NeoStore closed
+Fri Feb 11 15:23:46 AMT 2011: Closed log C:\workspace-sts\neo4poc\db\graphTT\index/lucene.log
+Fri Feb 11 15:23:46 AMT 2011: Closed log db\graphTT/lucene/lucene.log
+Fri Feb 11 15:23:46 AMT 2011: NeoStore closed
+Fri Feb 11 15:23:46 AMT 2011: Closed log db\graphTT/lucene-fulltext/lucene.log
+Fri Feb 11 15:23:46 AMT 2011: TM shutting down
+Fri Feb 11 15:24:15 AMT 2011: Opened [db\graphTT\nioneo_logical.log.1] clean empty log, version=0
+Fri Feb 11 15:24:15 AMT 2011: Opened [db\graphTT/lucene/lucene.log.1] clean empty log, version=0
+Fri Feb 11 15:24:15 AMT 2011: Opened [db\graphTT/lucene-fulltext/lucene.log.1] clean empty log, version=0
+Fri Feb 11 15:24:15 AMT 2011: Opened [C:\workspace-sts\neo4poc\db\graphTT\index/lucene.log.1] clean empty log, version=0
+Fri Feb 11 15:24:15 AMT 2011: Extension org.neo4j.graphdb.index.IndexProvider[lucene] initialized ok
+Fri Feb 11 15:24:15 AMT 2011: Extension org.neo4j.kernel.KernelExtension[shell] initialized ok
+Fri Feb 11 15:24:15 AMT 2011: Extension org.neo4j.kernel.KernelExtension[kernel udc] initialized ok
+Fri Feb 11 15:24:15 AMT 2011: Extension org.neo4j.kernel.KernelExtension[kernel jmx] initialized ok
+Fri Feb 11 15:24:15 AMT 2011: TM opening log: db/graphTT\tm_tx_log.1
+Fri Feb 11 15:24:15 AMT 2011: --- CONFIGURATION START ---
+Fri Feb 11 15:24:15 AMT 2011: Physical mem: 2047MB, Heap size: 247MB
+Fri Feb 11 15:24:15 AMT 2011: Kernel version: Neo4j - Graph Database Kernel 1.3-1.3.M01
+Fri Feb 11 15:24:15 AMT 2011: Operating System: Windows XP; version: 5.1; arch: x86; cpus: 2
+Fri Feb 11 15:24:15 AMT 2011: VM Name: Java HotSpot(TM) Client VM
+Fri Feb 11 15:24:15 AMT 2011: VM Vendor: Sun Microsystems Inc.
+Fri Feb 11 15:24:15 AMT 2011: VM Version: 16.3-b01
+Fri Feb 11 15:24:15 AMT 2011: Boot Class Path: C:\Arquivos de programas\Java\jdk1.6.0_20\jre\lib\resources.jar;C:\Arquivos de programas\Java\jdk1.6.0_20\jre\lib\rt.jar;C:\Arquivos de programas\Java\jdk1.6.0_20\jre\lib\sunrsasign.jar;C:\Arquivos de programas\Java\jdk1.6.0_20\jre\lib\jsse.jar;C:\Arquivos de programas\Java\jdk1.6.0_20\jre\lib\jce.jar;C:\Arquivos de programas\Java\jdk1.6.0_20\jre\lib\charsets.jar;C:\Arquivos de programas\Java\jdk1.6.0_20\jre\classes
+Fri Feb 11 15:24:15 AMT 2011: Class Path: C:\workspace-sts\neo4poc\target\classes;C:\java\m2\repository\org\neo4j\neo4j\1.3.M01\neo4j-1.3.M01.jar;C:\java\m2\repository\org\neo4j\neo4j-kernel\1.3-1.3.M01\neo4j-kernel-1.3-1.3.M01.jar;C:\java\m2\repository\org\apache\geronimo\specs\geronimo-jta_1.1_spec\1.1.1\geronimo-jta_1.1_spec-1.1.1.jar;C:\java\m2\repository\org\neo4j\neo4j-index\1.3-1.3.M01\neo4j-index-1.3-1.3.M01.jar;C:\java\m2\repository\org\apache\servicemix\bundles\org.apache.servicemix.bundles.lucene\3.0.1_2\org.apache.servicemix.bundles.lucene-3.0.1_2.jar;C:\java\m2\repository\org\neo4j\neo4j-lucene-index\0.5-1.3.M01\neo4j-lucene-index-0.5-1.3.M01.jar;C:\java\m2\repository\org\neo4j\neo4j-shell\1.3-1.3.M01\neo4j-shell-1.3-1.3.M01.jar;C:\java\m2\repository\org\apache\servicemix\bundles\org.apache.servicemix.bundles.jline\0.9.94_1\org.apache.servicemix.bundles.jline-0.9.94_1.jar;C:\java\m2\repository\org\neo4j\neo4j-remote-graphdb\0.9-1.3.M01\neo4j-remote-graphdb-0.9-1.3.M01.jar;C:\java\m2\repository\com\google\protobuf\protobuf-java\2.3.0\protobuf-java-2.3.0.jar;C:\java\m2\repository\org\neo4j\neo4j-graph-algo\0.8-1.3.M01\neo4j-graph-algo-0.8-1.3.M01.jar;C:\java\m2\repository\org\neo4j\neo4j-online-backup\0.8-1.3.M01\neo4j-online-backup-0.8-1.3.M01.jar;C:\java\m2\repository\org\neo4j\neo4j-udc\0.2-1.3.M01\neo4j-udc-0.2-1.3.M01.jar;C:\java\m2\repository\org\neo4j\neo4j-management\1.3-1.3.M01\neo4j-management-1.3-1.3.M01.jar;C:\java\m2\repository\org\neo4j\neo4j-ha\0.6-1.3.M01\neo4j-ha-0.6-1.3.M01.jar;C:\java\m2\repository\org\apache\zookeeper\zookeeper\3.3.2\zookeeper-3.3.2.jar;C:\java\m2\repository\org\jboss\netty\netty\3.2.1.Final\netty-3.2.1.Final.jar;C:\java\m2\repository\log4j\log4j\1.2.16\log4j-1.2.16.jar
+Fri Feb 11 15:24:15 AMT 2011: Library Path: C:\Arquivos de programas\Java\jdk1.6.0_20\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;c:\ruby\bin;C:\Arquivos de programas\Java\jdk1.6.0_20\bin;C:\oracle\product\10.2.0\client_1\bin;C:\program files\oracle\jre\1.1.8\bin;C:\arquivos de programas\oracle\jre\1.1.8\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\system32\WindowsPowerShell\v1.0;C:\Arquivos de programas\IVT Corporation\BlueSoleil\Mobile;C:\java\bin\Maven\maven-2.2.1\bin;C:\java\mule\bin;C:\Arquivos de programas\QuickTime\QTSystem\;C:\Arquivos de programas\Intel\DMIX;C:\Arquivos de programas\WinMerge;C:\Arquivos de programas\TortoiseSVN\bin;C:\APPs\apache-ant-1.8.1\bin;C:\Arquivos de programas\Git\cmd;C:\Arquivos de programas\TortoiseGit\bin;C:\APPs\curl;c:\jruby-1.5.2\bin
+Fri Feb 11 15:24:15 AMT 2011: Garbage Collector: Copy: [Eden Space, Survivor Space]
+Fri Feb 11 15:24:15 AMT 2011: Garbage Collector: MarkSweepCompact: [Eden Space, Survivor Space, Tenured Gen, Perm Gen, Perm Gen [shared-ro], Perm Gen [shared-rw]]
+Fri Feb 11 15:24:15 AMT 2011: VM Arguments: [-Dfile.encoding=Cp1252]
+Fri Feb 11 15:24:15 AMT 2011: 
+Fri Feb 11 15:24:15 AMT 2011: create=true
+Fri Feb 11 15:24:15 AMT 2011: dir=db\graphTT/lucene-fulltext
+Fri Feb 11 15:24:15 AMT 2011: logical_log=db\graphTT\nioneo_logical.log
+Fri Feb 11 15:24:15 AMT 2011: neo_store=db\graphTT\neostore
+Fri Feb 11 15:24:15 AMT 2011: neostore.nodestore.db.mapped_memory=20M
+Fri Feb 11 15:24:15 AMT 2011: neostore.propertystore.db.arrays.mapped_memory=130M
+Fri Feb 11 15:24:15 AMT 2011: neostore.propertystore.db.index.keys.mapped_memory=1M
+Fri Feb 11 15:24:15 AMT 2011: neostore.propertystore.db.index.mapped_memory=1M
+Fri Feb 11 15:24:15 AMT 2011: neostore.propertystore.db.mapped_memory=90M
+Fri Feb 11 15:24:15 AMT 2011: neostore.propertystore.db.strings.mapped_memory=130M
+Fri Feb 11 15:24:15 AMT 2011: neostore.relationshipstore.db.mapped_memory=100M
+Fri Feb 11 15:24:15 AMT 2011: rebuild_idgenerators_fast=true
+Fri Feb 11 15:24:15 AMT 2011: store_dir=db\graphTT
+Fri Feb 11 15:24:15 AMT 2011: use_memory_mapped_buffers=false
+Fri Feb 11 15:24:15 AMT 2011: --- CONFIGURATION END ---
+Fri Feb 11 15:24:15 AMT 2011: Extension org.neo4j.graphdb.index.IndexProvider[lucene] loaded ok
+Fri Feb 11 15:24:15 AMT 2011: Extension org.neo4j.kernel.KernelExtension[shell] loaded ok
+Fri Feb 11 15:24:15 AMT 2011: Extension org.neo4j.kernel.KernelExtension[kernel udc] loaded ok
+Fri Feb 11 15:24:15 AMT 2011: Extension org.neo4j.kernel.KernelExtension[kernel jmx] loaded ok
+Fri Feb 11 15:24:15 AMT 2011: Closed log db\graphTT\nioneo_logical.log
+Fri Feb 11 15:24:15 AMT 2011: NeoStore closed
+Fri Feb 11 15:24:15 AMT 2011: Closed log C:\workspace-sts\neo4poc\db\graphTT\index/lucene.log
+Fri Feb 11 15:24:15 AMT 2011: Closed log db\graphTT/lucene/lucene.log
+Fri Feb 11 15:24:15 AMT 2011: NeoStore closed
+Fri Feb 11 15:24:15 AMT 2011: Closed log db\graphTT/lucene-fulltext/lucene.log
+Fri Feb 11 15:24:15 AMT 2011: TM shutting down
+Fri Feb 11 15:27:12 AMT 2011: Opened [db\graphTT\nioneo_logical.log.1] clean empty log, version=0
+Fri Feb 11 15:27:12 AMT 2011: Opened [db\graphTT/lucene/lucene.log.1] clean empty log, version=0
+Fri Feb 11 15:27:12 AMT 2011: Opened [db\graphTT/lucene-fulltext/lucene.log.1] clean empty log, version=0
+Fri Feb 11 15:27:12 AMT 2011: Opened [C:\workspace-sts\neo4poc\db\graphTT\index/lucene.log.1] clean empty log, version=0
+Fri Feb 11 15:27:12 AMT 2011: Extension org.neo4j.graphdb.index.IndexProvider[lucene] initialized ok
+Fri Feb 11 15:27:12 AMT 2011: Extension org.neo4j.kernel.KernelExtension[shell] initialized ok
+Fri Feb 11 15:27:12 AMT 2011: Extension org.neo4j.kernel.KernelExtension[kernel udc] initialized ok
+Fri Feb 11 15:27:12 AMT 2011: Extension org.neo4j.kernel.KernelExtension[kernel jmx] initialized ok
+Fri Feb 11 15:27:12 AMT 2011: TM opening log: db/graphTT\tm_tx_log.1
+Fri Feb 11 15:27:12 AMT 2011: --- CONFIGURATION START ---
+Fri Feb 11 15:27:12 AMT 2011: Physical mem: 2047MB, Heap size: 247MB
+Fri Feb 11 15:27:12 AMT 2011: Kernel version: Neo4j - Graph Database Kernel 1.3-1.3.M01
+Fri Feb 11 15:27:12 AMT 2011: Operating System: Windows XP; version: 5.1; arch: x86; cpus: 2
+Fri Feb 11 15:27:12 AMT 2011: VM Name: Java HotSpot(TM) Client VM
+Fri Feb 11 15:27:12 AMT 2011: VM Vendor: Sun Microsystems Inc.
+Fri Feb 11 15:27:12 AMT 2011: VM Version: 16.3-b01
+Fri Feb 11 15:27:12 AMT 2011: Boot Class Path: C:\Arquivos de programas\Java\jdk1.6.0_20\jre\lib\resources.jar;C:\Arquivos de programas\Java\jdk1.6.0_20\jre\lib\rt.jar;C:\Arquivos de programas\Java\jdk1.6.0_20\jre\lib\sunrsasign.jar;C:\Arquivos de programas\Java\jdk1.6.0_20\jre\lib\jsse.jar;C:\Arquivos de programas\Java\jdk1.6.0_20\jre\lib\jce.jar;C:\Arquivos de programas\Java\jdk1.6.0_20\jre\lib\charsets.jar;C:\Arquivos de programas\Java\jdk1.6.0_20\jre\classes
+Fri Feb 11 15:27:12 AMT 2011: Class Path: C:\workspace-sts\neo4poc\target\classes;C:\java\m2\repository\org\neo4j\neo4j\1.3.M01\neo4j-1.3.M01.jar;C:\java\m2\repository\org\neo4j\neo4j-kernel\1.3-1.3.M01\neo4j-kernel-1.3-1.3.M01.jar;C:\java\m2\repository\org\apache\geronimo\specs\geronimo-jta_1.1_spec\1.1.1\geronimo-jta_1.1_spec-1.1.1.jar;C:\java\m2\repository\org\neo4j\neo4j-index\1.3-1.3.M01\neo4j-index-1.3-1.3.M01.jar;C:\java\m2\repository\org\apache\servicemix\bundles\org.apache.servicemix.bundles.lucene\3.0.1_2\org.apache.servicemix.bundles.lucene-3.0.1_2.jar;C:\java\m2\repository\org\neo4j\neo4j-lucene-index\0.5-1.3.M01\neo4j-lucene-index-0.5-1.3.M01.jar;C:\java\m2\repository\org\neo4j\neo4j-shell\1.3-1.3.M01\neo4j-shell-1.3-1.3.M01.jar;C:\java\m2\repository\org\apache\servicemix\bundles\org.apache.servicemix.bundles.jline\0.9.94_1\org.apache.servicemix.bundles.jline-0.9.94_1.jar;C:\java\m2\repository\org\neo4j\neo4j-remote-graphdb\0.9-1.3.M01\neo4j-remote-graphdb-0.9-1.3.M01.jar;C:\java\m2\repository\com\google\protobuf\protobuf-java\2.3.0\protobuf-java-2.3.0.jar;C:\java\m2\repository\org\neo4j\neo4j-graph-algo\0.8-1.3.M01\neo4j-graph-algo-0.8-1.3.M01.jar;C:\java\m2\repository\org\neo4j\neo4j-online-backup\0.8-1.3.M01\neo4j-online-backup-0.8-1.3.M01.jar;C:\java\m2\repository\org\neo4j\neo4j-udc\0.2-1.3.M01\neo4j-udc-0.2-1.3.M01.jar;C:\java\m2\repository\org\neo4j\neo4j-management\1.3-1.3.M01\neo4j-management-1.3-1.3.M01.jar;C:\java\m2\repository\org\neo4j\neo4j-ha\0.6-1.3.M01\neo4j-ha-0.6-1.3.M01.jar;C:\java\m2\repository\org\apache\zookeeper\zookeeper\3.3.2\zookeeper-3.3.2.jar;C:\java\m2\repository\org\jboss\netty\netty\3.2.1.Final\netty-3.2.1.Final.jar;C:\java\m2\repository\log4j\log4j\1.2.16\log4j-1.2.16.jar
+Fri Feb 11 15:27:12 AMT 2011: Library Path: C:\Arquivos de programas\Java\jdk1.6.0_20\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;c:\ruby\bin;C:\Arquivos de programas\Java\jdk1.6.0_20\bin;C:\oracle\product\10.2.0\client_1\bin;C:\program files\oracle\jre\1.1.8\bin;C:\arquivos de programas\oracle\jre\1.1.8\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\system32\WindowsPowerShell\v1.0;C:\Arquivos de programas\IVT Corporation\BlueSoleil\Mobile;C:\java\bin\Maven\maven-2.2.1\bin;C:\java\mule\bin;C:\Arquivos de programas\QuickTime\QTSystem\;C:\Arquivos de programas\Intel\DMIX;C:\Arquivos de programas\WinMerge;C:\Arquivos de programas\TortoiseSVN\bin;C:\APPs\apache-ant-1.8.1\bin;C:\Arquivos de programas\Git\cmd;C:\Arquivos de programas\TortoiseGit\bin;C:\APPs\curl;c:\jruby-1.5.2\bin
+Fri Feb 11 15:27:12 AMT 2011: Garbage Collector: Copy: [Eden Space, Survivor Space]
+Fri Feb 11 15:27:12 AMT 2011: Garbage Collector: MarkSweepCompact: [Eden Space, Survivor Space, Tenured Gen, Perm Gen, Perm Gen [shared-ro], Perm Gen [shared-rw]]
+Fri Feb 11 15:27:12 AMT 2011: VM Arguments: [-Dfile.encoding=Cp1252]
+Fri Feb 11 15:27:12 AMT 2011: 
+Fri Feb 11 15:27:12 AMT 2011: create=true
+Fri Feb 11 15:27:12 AMT 2011: dir=db\graphTT/lucene-fulltext
+Fri Feb 11 15:27:12 AMT 2011: logical_log=db\graphTT\nioneo_logical.log
+Fri Feb 11 15:27:12 AMT 2011: neo_store=db\graphTT\neostore
+Fri Feb 11 15:27:12 AMT 2011: neostore.nodestore.db.mapped_memory=20M
+Fri Feb 11 15:27:12 AMT 2011: neostore.propertystore.db.arrays.mapped_memory=130M
+Fri Feb 11 15:27:12 AMT 2011: neostore.propertystore.db.index.keys.mapped_memory=1M
+Fri Feb 11 15:27:12 AMT 2011: neostore.propertystore.db.index.mapped_memory=1M
+Fri Feb 11 15:27:12 AMT 2011: neostore.propertystore.db.mapped_memory=90M
+Fri Feb 11 15:27:12 AMT 2011: neostore.propertystore.db.strings.mapped_memory=130M
+Fri Feb 11 15:27:12 AMT 2011: neostore.relationshipstore.db.mapped_memory=100M
+Fri Feb 11 15:27:12 AMT 2011: rebuild_idgenerators_fast=true
+Fri Feb 11 15:27:12 AMT 2011: store_dir=db\graphTT
+Fri Feb 11 15:27:12 AMT 2011: use_memory_mapped_buffers=false
+Fri Feb 11 15:27:12 AMT 2011: --- CONFIGURATION END ---
+Fri Feb 11 15:27:12 AMT 2011: Extension org.neo4j.graphdb.index.IndexProvider[lucene] loaded ok
+Fri Feb 11 15:27:12 AMT 2011: Extension org.neo4j.kernel.KernelExtension[shell] loaded ok
+Fri Feb 11 15:27:12 AMT 2011: Extension org.neo4j.kernel.KernelExtension[kernel udc] loaded ok
+Fri Feb 11 15:27:12 AMT 2011: Extension org.neo4j.kernel.KernelExtension[kernel jmx] loaded ok
+Fri Feb 11 15:27:12 AMT 2011: Closed log db\graphTT\nioneo_logical.log
+Fri Feb 11 15:27:12 AMT 2011: NeoStore closed
+Fri Feb 11 15:27:12 AMT 2011: Closed log C:\workspace-sts\neo4poc\db\graphTT\index/lucene.log
+Fri Feb 11 15:27:12 AMT 2011: Closed log db\graphTT/lucene/lucene.log
+Fri Feb 11 15:27:12 AMT 2011: NeoStore closed
+Fri Feb 11 15:27:12 AMT 2011: Closed log db\graphTT/lucene-fulltext/lucene.log
+Fri Feb 11 15:27:12 AMT 2011: TM shutting down
+Fri Feb 11 15:27:54 AMT 2011: Opened [db\graphTT\nioneo_logical.log.1] clean empty log, version=0
+Fri Feb 11 15:27:54 AMT 2011: Opened [db\graphTT/lucene/lucene.log.1] clean empty log, version=0
+Fri Feb 11 15:27:54 AMT 2011: Opened [db\graphTT/lucene-fulltext/lucene.log.1] clean empty log, version=0
+Fri Feb 11 15:27:54 AMT 2011: Opened [C:\workspace-sts\neo4poc\db\graphTT\index/lucene.log.1] clean empty log, version=0
+Fri Feb 11 15:27:54 AMT 2011: Extension org.neo4j.graphdb.index.IndexProvider[lucene] initialized ok
+Fri Feb 11 15:27:54 AMT 2011: Extension org.neo4j.kernel.KernelExtension[shell] initialized ok
+Fri Feb 11 15:27:54 AMT 2011: Extension org.neo4j.kernel.KernelExtension[kernel udc] initialized ok
+Fri Feb 11 15:27:54 AMT 2011: Extension org.neo4j.kernel.KernelExtension[kernel jmx] initialized ok
+Fri Feb 11 15:27:54 AMT 2011: TM opening log: db/graphTT\tm_tx_log.1
+Fri Feb 11 15:27:54 AMT 2011: --- CONFIGURATION START ---
+Fri Feb 11 15:27:54 AMT 2011: Physical mem: 2047MB, Heap size: 247MB
+Fri Feb 11 15:27:54 AMT 2011: Kernel version: Neo4j - Graph Database Kernel 1.3-1.3.M01
+Fri Feb 11 15:27:54 AMT 2011: Operating System: Windows XP; version: 5.1; arch: x86; cpus: 2
+Fri Feb 11 15:27:54 AMT 2011: VM Name: Java HotSpot(TM) Client VM
+Fri Feb 11 15:27:54 AMT 2011: VM Vendor: Sun Microsystems Inc.
+Fri Feb 11 15:27:54 AMT 2011: VM Version: 16.3-b01
+Fri Feb 11 15:27:54 AMT 2011: Boot Class Path: C:\Arquivos de programas\Java\jdk1.6.0_20\jre\lib\resources.jar;C:\Arquivos de programas\Java\jdk1.6.0_20\jre\lib\rt.jar;C:\Arquivos de programas\Java\jdk1.6.0_20\jre\lib\sunrsasign.jar;C:\Arquivos de programas\Java\jdk1.6.0_20\jre\lib\jsse.jar;C:\Arquivos de programas\Java\jdk1.6.0_20\jre\lib\jce.jar;C:\Arquivos de programas\Java\jdk1.6.0_20\jre\lib\charsets.jar;C:\Arquivos de programas\Java\jdk1.6.0_20\jre\classes
+Fri Feb 11 15:27:54 AMT 2011: Class Path: C:\workspace-sts\neo4poc\target\classes;C:\java\m2\repository\org\neo4j\neo4j\1.3.M01\neo4j-1.3.M01.jar;C:\java\m2\repository\org\neo4j\neo4j-kernel\1.3-1.3.M01\neo4j-kernel-1.3-1.3.M01.jar;C:\java\m2\repository\org\apache\geronimo\specs\geronimo-jta_1.1_spec\1.1.1\geronimo-jta_1.1_spec-1.1.1.jar;C:\java\m2\repository\org\neo4j\neo4j-index\1.3-1.3.M01\neo4j-index-1.3-1.3.M01.jar;C:\java\m2\repository\org\apache\servicemix\bundles\org.apache.servicemix.bundles.lucene\3.0.1_2\org.apache.servicemix.bundles.lucene-3.0.1_2.jar;C:\java\m2\repository\org\neo4j\neo4j-lucene-index\0.5-1.3.M01\neo4j-lucene-index-0.5-1.3.M01.jar;C:\java\m2\repository\org\neo4j\neo4j-shell\1.3-1.3.M01\neo4j-shell-1.3-1.3.M01.jar;C:\java\m2\repository\org\apache\servicemix\bundles\org.apache.servicemix.bundles.jline\0.9.94_1\org.apache.servicemix.bundles.jline-0.9.94_1.jar;C:\java\m2\repository\org\neo4j\neo4j-remote-graphdb\0.9-1.3.M01\neo4j-remote-graphdb-0.9-1.3.M01.jar;C:\java\m2\repository\com\google\protobuf\protobuf-java\2.3.0\protobuf-java-2.3.0.jar;C:\java\m2\repository\org\neo4j\neo4j-graph-algo\0.8-1.3.M01\neo4j-graph-algo-0.8-1.3.M01.jar;C:\java\m2\repository\org\neo4j\neo4j-online-backup\0.8-1.3.M01\neo4j-online-backup-0.8-1.3.M01.jar;C:\java\m2\repository\org\neo4j\neo4j-udc\0.2-1.3.M01\neo4j-udc-0.2-1.3.M01.jar;C:\java\m2\repository\org\neo4j\neo4j-management\1.3-1.3.M01\neo4j-management-1.3-1.3.M01.jar;C:\java\m2\repository\org\neo4j\neo4j-ha\0.6-1.3.M01\neo4j-ha-0.6-1.3.M01.jar;C:\java\m2\repository\org\apache\zookeeper\zookeeper\3.3.2\zookeeper-3.3.2.jar;C:\java\m2\repository\org\jboss\netty\netty\3.2.1.Final\netty-3.2.1.Final.jar;C:\java\m2\repository\log4j\log4j\1.2.16\log4j-1.2.16.jar
+Fri Feb 11 15:27:54 AMT 2011: Library Path: C:\Arquivos de programas\Java\jdk1.6.0_20\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;c:\ruby\bin;C:\Arquivos de programas\Java\jdk1.6.0_20\bin;C:\oracle\product\10.2.0\client_1\bin;C:\program files\oracle\jre\1.1.8\bin;C:\arquivos de programas\oracle\jre\1.1.8\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\system32\WindowsPowerShell\v1.0;C:\Arquivos de programas\IVT Corporation\BlueSoleil\Mobile;C:\java\bin\Maven\maven-2.2.1\bin;C:\java\mule\bin;C:\Arquivos de programas\QuickTime\QTSystem\;C:\Arquivos de programas\Intel\DMIX;C:\Arquivos de programas\WinMerge;C:\Arquivos de programas\TortoiseSVN\bin;C:\APPs\apache-ant-1.8.1\bin;C:\Arquivos de programas\Git\cmd;C:\Arquivos de programas\TortoiseGit\bin;C:\APPs\curl;c:\jruby-1.5.2\bin
+Fri Feb 11 15:27:54 AMT 2011: Garbage Collector: Copy: [Eden Space, Survivor Space]
+Fri Feb 11 15:27:54 AMT 2011: Garbage Collector: MarkSweepCompact: [Eden Space, Survivor Space, Tenured Gen, Perm Gen, Perm Gen [shared-ro], Perm Gen [shared-rw]]
+Fri Feb 11 15:27:54 AMT 2011: VM Arguments: [-Dfile.encoding=Cp1252]
+Fri Feb 11 15:27:54 AMT 2011: 
+Fri Feb 11 15:27:54 AMT 2011: create=true
+Fri Feb 11 15:27:54 AMT 2011: dir=db\graphTT/lucene-fulltext
+Fri Feb 11 15:27:54 AMT 2011: logical_log=db\graphTT\nioneo_logical.log
+Fri Feb 11 15:27:54 AMT 2011: neo_store=db\graphTT\neostore
+Fri Feb 11 15:27:54 AMT 2011: neostore.nodestore.db.mapped_memory=20M
+Fri Feb 11 15:27:54 AMT 2011: neostore.propertystore.db.arrays.mapped_memory=130M
+Fri Feb 11 15:27:54 AMT 2011: neostore.propertystore.db.index.keys.mapped_memory=1M
+Fri Feb 11 15:27:54 AMT 2011: neostore.propertystore.db.index.mapped_memory=1M
+Fri Feb 11 15:27:54 AMT 2011: neostore.propertystore.db.mapped_memory=90M
+Fri Feb 11 15:27:54 AMT 2011: neostore.propertystore.db.strings.mapped_memory=130M
+Fri Feb 11 15:27:54 AMT 2011: neostore.relationshipstore.db.mapped_memory=100M
+Fri Feb 11 15:27:54 AMT 2011: rebuild_idgenerators_fast=true
+Fri Feb 11 15:27:54 AMT 2011: store_dir=db\graphTT
+Fri Feb 11 15:27:54 AMT 2011: use_memory_mapped_buffers=false
+Fri Feb 11 15:27:54 AMT 2011: --- CONFIGURATION END ---
+Fri Feb 11 15:27:54 AMT 2011: Extension org.neo4j.graphdb.index.IndexProvider[lucene] loaded ok
+Fri Feb 11 15:27:54 AMT 2011: Extension org.neo4j.kernel.KernelExtension[shell] loaded ok
+Fri Feb 11 15:27:54 AMT 2011: Extension org.neo4j.kernel.KernelExtension[kernel udc] loaded ok
+Fri Feb 11 15:27:54 AMT 2011: Extension org.neo4j.kernel.KernelExtension[kernel jmx] loaded ok
+Fri Feb 11 15:27:54 AMT 2011: Closed log db\graphTT\nioneo_logical.log
+Fri Feb 11 15:27:54 AMT 2011: NeoStore closed
+Fri Feb 11 15:27:54 AMT 2011: Closed log C:\workspace-sts\neo4poc\db\graphTT\index/lucene.log
+Fri Feb 11 15:27:54 AMT 2011: Closed log db\graphTT/lucene/lucene.log
+Fri Feb 11 15:27:54 AMT 2011: NeoStore closed
+Fri Feb 11 15:27:54 AMT 2011: Closed log db\graphTT/lucene-fulltext/lucene.log
+Fri Feb 11 15:27:54 AMT 2011: TM shutting down
